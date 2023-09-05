@@ -18,6 +18,15 @@ This is a simple contract written in Solidity, it demostrates the basics of soli
 *    5. Lastly, your burn function should have conditionals to make sure the balance of "sender" is greater than or equal 
        to the amount that is supposed to be burned.
 
+#### Video walk through
+This video walks through the contract descibing it's functions and demostrating the functions being ran deployed to remix VM chain.
+
+
+
+https://github.com/zenkodr/metacrafters-project-create-a-token/assets/73366769/9760153e-2427-4cfa-a8f4-580acfdb281e
+
+
+
 ## Getting Started
 
 ### Executing program
